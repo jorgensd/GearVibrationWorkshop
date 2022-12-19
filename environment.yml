@@ -1,0 +1,12 @@
+
+name: work-env 
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - scipy
+  - tensorflow
+  - ipykernel
