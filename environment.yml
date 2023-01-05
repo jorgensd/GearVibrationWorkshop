@@ -11,3 +11,4 @@ dependencies:
   - tensorflow
   - ipykernel
   - jupyterlab
+  - ipympl
