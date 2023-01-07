@@ -13,3 +13,4 @@ dependencies:
   - jupyterlab
   - ipympl
   - pywavelets
+  - nbdime

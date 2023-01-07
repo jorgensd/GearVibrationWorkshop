@@ -7,3 +7,4 @@
 2. Navigate to the root of this repository
 3. Call `conda env create -f environment.yml`
 4. Call `conda activate fnss-env`
+5. Call `jupyter lab .` to open a web interface with access to all the tutorials
