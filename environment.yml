@@ -1,5 +1,5 @@
 
-name: work-env 
+name: fnss-env
 channels:
   - conda-forge
 dependencies:
@@ -12,3 +12,4 @@ dependencies:
   - ipykernel
   - jupyterlab
   - ipympl
+  - pywavelets
