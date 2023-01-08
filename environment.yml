@@ -14,3 +14,5 @@ dependencies:
   - ipympl
   - pywavelets
   - nbdime
+  - librosa
+
